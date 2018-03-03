@@ -1,0 +1,3 @@
+targets:
+  shorster-prod: shared-eu-west-1/cjebq7qpa3wkv01969qulv05r
+  default: shorster-prod
