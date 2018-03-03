@@ -1,3 +1,5 @@
+URL shortener built with React, Appollo and GraphQL (tutorial https://hackernoon.com/building-url-shortener-using-react-apollo-and-graphql-part-i-467aef8c64ce)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
